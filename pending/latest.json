@@ -1,0 +1,15 @@
+{
+  "version": "1.0.2",
+  "notes": "Installer with the Wick icon and artwork.",
+  "pub_date": "2026-11-20T23:51:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMTlRZDhJdkNUaXVhOGYyam5QT3VQTVFpb2VVamxXV29XNllNaUFCcnE5YjhDQ0c5SmE0NzRsMTI4QUlzdTVBb1VDcmUxa2QwSTIwZlkvaDBtbVFzekdvaDUwZ2R6cVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE4NjgzCWZpbGU6V2lja18xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKQVBJSTZjMEFPUkdyQjdFTDhQc3pWVFJDaUJWRnR3dVRaVis3WFNOWU00Z2toVTNNVjZrSnNBbW9oeWJBdTd4c0NadjNId3R0REdXdzM1Z0h4VmhNQXc9PQo=",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.0.2/Wick_1.0.2_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMTlRZDhJdkNUaXVhOGYyam5QT3VQTVFpb2VVamxXV29XNllNaUFCcnE5YjhDQ0c5SmE0NzRsMTI4QUlzdTVBb1VDcmUxa2QwSTIwZlkvaDBtbVFzekdvaDUwZ2R6cVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE4NjgzCWZpbGU6V2lja18xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKQVBJSTZjMEFPUkdyQjdFTDhQc3pWVFJDaUJWRnR3dVRaVis3WFNOWU00Z2toVTNNVjZrSnNBbW9oeWJBdTd4c0NadjNId3R0REdXdzM1Z0h4VmhNQXc9PQo=",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.0.2/Wick_1.0.2_x64-setup.exe"
+    }
+  }
+}
