@@ -1,0 +1,15 @@
+{
+  "version": "1.0.4",
+  "notes": "Watchdog, start the bot with Wick, red/green tray icon, daily summary, price alerts, markets clock, risk calculator, Excel export, privacy mode and an emergency button.",
+  "pub_date": "2026-11-21T00:53:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMTlRZDhJdkNUaWlFYkpSVUNobmFFUHcvL1NPWjU1cHR0dWIxSndhNTVGVExxSWVBclk2RGtHaUREcC9VSklhajg0OEZGdXZXQ0ZnTGZhMnVnUjJMeFRidXpXb2l6THdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIyMzgwCWZpbGU6V2lja18xLjAuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjQKSHUzZmtWbjlQN3JzZHoxcWhscFFDdjFCeHFyaGh2SGFKczNvQTlBK1MweDVJSVA3N2tDUTgrSzg0R1NiTllVSlc5Y0N3ZWwrRU5sRDlmRTE1SmxtQmc9PQo=",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.0.4/Wick_1.0.4_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMTlRZDhJdkNUaWlFYkpSVUNobmFFUHcvL1NPWjU1cHR0dWIxSndhNTVGVExxSWVBclk2RGtHaUREcC9VSklhajg0OEZGdXZXQ0ZnTGZhMnVnUjJMeFRidXpXb2l6THdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIyMzgwCWZpbGU6V2lja18xLjAuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjQKSHUzZmtWbjlQN3JzZHoxcWhscFFDdjFCeHFyaGh2SGFKczNvQTlBK1MweDVJSVA3N2tDUTgrSzg0R1NiTllVSlc5Y0N3ZWwrRU5sRDlmRTE1SmxtQmc9PQo=",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.0.4/Wick_1.0.4_x64-setup.exe"
+    }
+  }
+}
