@@ -1,0 +1,15 @@
+{
+  "version": "1.3.0",
+  "notes": "First-run setup for new installs and a full installer (Wick_1.3.0_x64-full-setup.exe) that brings Python and the bot, to install Wick on another PC.",
+  "pub_date": "2026-11-21T19:16:35Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0wvNlJjVVh2MmJTVXJpcThBYzlkYnk3cFplTDhjTGc5akVwQ0FydWFlc1VBUHZMendnQ3pVMWE5MzBIUCswUHhScUttSFF2NGd1QkFEZ2o3Tyt3U0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg4NTYzCWZpbGU6V2lja18xLjMuMF94NjQtc2V0dXAuZXhlCjAzZGlvSS9sMjByRVdFaTNBeDRvZkJObGtuVFhjMHI3Vjh6RXdBMForVUNTTmtRSEJmU0t2OHc5M0trcFQrTGVLbUxPeWZ2cE1aam5SV2hNSVJjVUFnPT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.3.0/Wick_1.3.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0wvNlJjVVh2MmJTVXJpcThBYzlkYnk3cFplTDhjTGc5akVwQ0FydWFlc1VBUHZMendnQ3pVMWE5MzBIUCswUHhScUttSFF2NGd1QkFEZ2o3Tyt3U0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg4NTYzCWZpbGU6V2lja18xLjMuMF94NjQtc2V0dXAuZXhlCjAzZGlvSS9sMjByRVdFaTNBeDRvZkJObGtuVFhjMHI3Vjh6RXdBMForVUNTTmtRSEJmU0t2OHc5M0trcFQrTGVLbUxPeWZ2cE1aam5SV2hNSVJjVUFnPT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.3.0/Wick_1.3.0_x64-setup.exe"
+    }
+  }
+}
