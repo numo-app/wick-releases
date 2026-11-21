@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "Market pages, full news section, bot activity and lab details, merged history, new open-trade cards.",
+  "pub_date": "2026-11-21T17:46:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0swSU45aFpDbHdYWkxMWDdNYi9RTGZ0TWNsMEd6QzBFc2F1eG9FSlZnYzFrM0RMTEhQRVovWTB0UG9Qelgvd1paYjI2d1pZVDNHRTd2Y3hnY1hEK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgzMTUzCWZpbGU6V2lja18xLjIuMF94NjQtc2V0dXAuZXhlCmQrT3duNHVOZGdXQkx6TXc2SGFvSWZkcjFHaVdKR2k2QXhkamplL28vQ2hyZ1pEejYzRnpnOGs4T0RRd3V1TDQzOVhKRnJicEVFNnJiTStKL0dURENRPT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.2.0/Wick_1.2.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0swSU45aFpDbHdYWkxMWDdNYi9RTGZ0TWNsMEd6QzBFc2F1eG9FSlZnYzFrM0RMTEhQRVovWTB0UG9Qelgvd1paYjI2d1pZVDNHRTd2Y3hnY1hEK0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgzMTUzCWZpbGU6V2lja18xLjIuMF94NjQtc2V0dXAuZXhlCmQrT3duNHVOZGdXQkx6TXc2SGFvSWZkcjFHaVdKR2k2QXhkamplL28vQ2hyZ1pEejYzRnpnOGs4T0RRd3V1TDQzOVhKRnJicEVFNnJiTStKL0dURENRPT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.2.0/Wick_1.2.0_x64-setup.exe"
+    }
+  }
+}
