@@ -1,0 +1,15 @@
+{
+  "version": "1.5.0",
+  "notes": "New Ideas lab: describe a trading idea, Claude turns it into rules and Wick tests it honestly with real costs and 5 filters. Wick keeps the PC awake while the bot runs and restarts the bot if it stops. History can show bot or manual trades only.",
+  "pub_date": "2026-11-28T04:39:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0JCK1RzdERXMjh1MVQ5QWxMNDlCdURjOG1xRzB1eHFDaFJpMTNkeEd0REpHUWdRb1RBY0ZBS2c2SmlsSmVYMWR6TGhYcVZ5VlhHbTFJSHJHMVl4eGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQwMTczCWZpbGU6V2lja18xLjUuMF94NjQtc2V0dXAuZXhlCnlQclpUZTdIQ1J3aTFhaGMzQ3dEVEdwYUx3akVKdWN5OGFTMHlaYUtnQ3NhdHlES1VGQ0U4eVJNVVdlV1A3MTFLMElOaHMyQ0E1WEtMQ1c3eVZId0N3PT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.5.0/Wick_1.5.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUclUzSlRydDJPV0JCK1RzdERXMjh1MVQ5QWxMNDlCdURjOG1xRzB1eHFDaFJpMTNkeEd0REpHUWdRb1RBY0ZBS2c2SmlsSmVYMWR6TGhYcVZ5VlhHbTFJSHJHMVl4eGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQwMTczCWZpbGU6V2lja18xLjUuMF94NjQtc2V0dXAuZXhlCnlQclpUZTdIQ1J3aTFhaGMzQ3dEVEdwYUx3akVKdWN5OGFTMHlaYUtnQ3NhdHlES1VGQ0U4eVJNVVdlV1A3MTFLMElOaHMyQ0E1WEtMQ1c3eVZId0N3PT0K",
+      "url": "https://github.com/numo-app/wick-releases/releases/download/v1.5.0/Wick_1.5.0_x64-setup.exe"
+    }
+  }
+}
